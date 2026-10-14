@@ -1,0 +1,189 @@
+{
+  "modulo": {
+    "nombre": "Módulo de ejemplo (ficticio)",
+    "codigo": "0000",
+    "curso": "1.º Ciclo de ejemplo",
+    "centro": "Centro de ejemplo",
+    "anio": "2026-2027",
+    "horas_nominales": 24
+  },
+  "docente": "Docente de ejemplo",
+  "horario": [
+    {
+      "dia": "Lunes",
+      "inicio": "09:00",
+      "fin": "11:00",
+      "horas": 2
+    }
+  ],
+  "calendario": {
+    "inicio_clases": "2026-09-14",
+    "fin_clases_modulo": "2026-12-14",
+    "fin_curso": "2027-06-22",
+    "evaluaciones": [
+      {
+        "n": 1,
+        "nombre": "1.ª evaluación",
+        "fecha": "2026-12-16"
+      }
+    ],
+    "no_lectivos": [
+      {
+        "fecha": "2026-10-12",
+        "motivo": "Festivo (ejemplo)"
+      },
+      {
+        "fecha": "2026-11-02",
+        "motivo": "Festivo (ejemplo)"
+      }
+    ],
+    "periodos_sin_clase": [],
+    "hitos": []
+  },
+  "ras": [
+    {
+      "n": 1,
+      "titulo": "RA ejemplo 1",
+      "peso_ra": 50,
+      "transversal": false,
+      "evaluaciones": [
+        1
+      ],
+      "ces": [
+        {
+          "id": "a",
+          "texto": "Criterio de ejemplo 1.a (ficticio, no es currículo oficial).",
+          "peso": 50,
+          "evalua": "Qué se valora (ejemplo)",
+          "evidencia": "EV1",
+          "instrumento": "Rúbrica"
+        },
+        {
+          "id": "b",
+          "texto": "Criterio de ejemplo 1.b (ficticio).",
+          "peso": 50,
+          "evalua": "Qué se valora (ejemplo)",
+          "evidencia": "EV1",
+          "instrumento": "Rúbrica"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "RA ejemplo 2",
+      "peso_ra": 50,
+      "transversal": false,
+      "evaluaciones": [
+        1
+      ],
+      "ces": [
+        {
+          "id": "a",
+          "texto": "Criterio de ejemplo 2.a (ficticio).",
+          "peso": 100,
+          "evalua": "Qué se valora (ejemplo)",
+          "evidencia": "EV2",
+          "instrumento": "Examen individual"
+        }
+      ]
+    }
+  ],
+  "sdas": [
+    {
+      "n": 1,
+      "titulo": "SdA de ejemplo",
+      "ra_principal": 1,
+      "ras_complementarios": [
+        2
+      ],
+      "horas": 24,
+      "inicio": "2026-09-14",
+      "fin": "2026-12-14",
+      "evaluaciones": [
+        1
+      ],
+      "evidencias": [
+        {
+          "id": "EV1",
+          "nombre": "Producto de ejemplo",
+          "peso": 40,
+          "ces": [
+            "1.a",
+            "1.b"
+          ]
+        },
+        {
+          "id": "EV2",
+          "nombre": "Examen individual de ejemplo",
+          "peso": 60,
+          "tipo": "examen_individual",
+          "ces": [
+            "2.a"
+          ]
+        }
+      ],
+      "sesiones": [
+        {
+          "plan": "Sesión 1: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 2: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 3: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 4: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 5: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 6: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 7: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 8: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 9: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 10: actividad de ejemplo",
+          "ce": "1.a",
+          "evidencia": "EV1"
+        },
+        {
+          "plan": "Sesión 11: actividad de ejemplo",
+          "ce": "2.a",
+          "evidencia": "EV2"
+        },
+        {
+          "plan": "Sesión 12: actividad de ejemplo",
+          "ce": "2.a",
+          "evidencia": "EV2"
+        }
+      ]
+    }
+  ]
+}

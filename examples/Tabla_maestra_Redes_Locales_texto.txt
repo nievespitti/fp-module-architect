@@ -1,0 +1,149 @@
+Tabla maestra de evaluación
+Redes Locales 0225 · 1.º SMR · Curso 2026–2027
+Esta matriz relaciona los resultados de aprendizaje (RA) y los criterios de evaluación (CE) con las evidencias, los instrumentos y sus pesos. Sirve de referencia para la evaluación del módulo y para organizar el registro en Alexia.
+Distribución global de los RA
+
+[TABLA]
+RA | SdA principal | Peso módulo
+RA1 | SdA1 · ¿Cómo se comunican los equipos de una red? | 15 %
+RA2 | SdA2 · Del plano al cable | 20 %
+RA3 | SdA3 · Conectamos la red | 15 %
+RA4 | SdA5 · Configuramos la red | 25 %
+RA5 | SdA6 · La red no funciona | 15 %
+RA6 | SdA4 · ¿Estamos preparados para trabajar como técnicos? | 10 %
+ | TOTAL | 100 %
+[FIN TABLA]
+
+Carácter de los criterios y de los pesos
+Los RA y CE son oficiales y corresponden al módulo 0225 del Real Decreto 1691/2007, anexo I. Los títulos de RA y la columna «Qué se evalúa» son resúmenes operativos, no transcripciones literales. Los pesos, las evidencias y los instrumentos son una propuesta didáctica; la normativa no fija estos porcentajes.
+El peso de cada CE en el módulo se calcula multiplicando su peso dentro del RA por el peso global de ese RA y dividiendo entre 100. Ejemplo: 15 % de RA1 × 15 % del módulo = 2,25 % del módulo.
+Referencia normativa: https://www.boe.es/eli/es/rd/2007/12/14/1691
+RA1 Estructura de redes locales
+Peso global en el módulo: 15 % · SdA1 · ¿Cómo se comunican los equipos de una red?
+
+[TABLA]
+CE | Qué se evalúa | Evidencia principal | Instrumento | Peso en RA | Peso módulo
+1.a | Principios de funcionamiento de redes locales | Packet Tracer + explicación del funcionamiento | Lista de cotejo / práctica | 15 % | 2,25 %
+1.b | Tipos de redes | Resolución de escenarios LAN/WLAN/WAN | Actividad aplicada | 10 % | 1,50 %
+1.c | Elementos de red y su función | Diseño de pequeña LAN + dispositivos | Rúbrica / práctica | 15 % | 2,25 %
+1.d | Medios de transmisión | Elección justificada del medio | Tabla comparativa / caso | 10 % | 1,50 %
+1.e | Reconocimiento del mapa físico | Interpretación de esquema/plano | Lista de cotejo | 10 % | 1,50 %
+1.f | Aplicaciones para representar el mapa físico | Plano digital de red | Rúbrica | 10 % | 1,50 %
+1.g | Topologías de red | Identificación y elección de topología | Caso práctico | 15 % | 2,25 %
+1.h | Estructuras alternativas | Diseño y justificación de solución | Proyecto + prueba individual | 15 % | 2,25 %
+ |  |  | TOTAL | 100 % | 15 %
+[FIN TABLA]
+
+Evidencias principales
+Proyecto “Pequeña empresa” + Packet Tracer + prueba práctica individual.
+RA2 Despliegue del cableado
+Peso global en el módulo: 20 % · SdA2 · Del plano al cable
+
+[TABLA]
+CE | Qué se evalúa | Evidencia principal | Instrumento | Peso en RA | Peso módulo
+2.a | Principios funcionales de las redes locales | Interpretación inicial del despliegue | Caso práctico | 5 % | 1 %
+2.b | Tipos de redes | Elección según escenario | Actividad aplicada | 5 % | 1 %
+2.c | Medios de transmisión | Selección de cable/medio | Lista de cotejo | 10 % | 2 %
+2.d | Detalles del cableado y despliegue | Plano + recorrido + materiales | Rúbrica | 10 % | 2 %
+2.e | Canalizaciones y tubos | Montaje/representación de canalización | Observación práctica | 10 % | 2 %
+2.f | Armarios de comunicaciones | Rack y accesorios | Práctica / esquema | 10 % | 2 %
+2.g | Tomas y paneles de parcheo | Montaje y conexionado | Lista de cotejo práctica | 15 % | 3 %
+2.h | Prueba de líneas | Tester y diagnóstico | Prueba práctica | 15 % | 3 %
+2.i | Etiquetado | Sistema de identificación del cableado | Lista de cotejo | 10 % | 2 %
+2.j | Calidad y seguridad | Trabajo de taller observado | Registro + RA6 | 10 % | 2 %
+ |  |  | TOTAL | 100 % | 20 %
+[FIN TABLA]
+
+Evidencias principales
+Cable funcional + tester + instalación/plano + montaje/etiquetado + prueba individual.
+RA3 Interconexión de equipos
+Peso global en el módulo: 15 % · SdA3 · Conectamos la red
+
+[TABLA]
+CE | Qué se evalúa | Evidencia principal | Instrumento | Peso en RA | Peso módulo
+3.a | Plan de montaje lógico | Interpretación de esquema | Caso práctico | 15 % | 2,25 %
+3.b | Adaptadores de red | Identificación/instalación | Observación práctica | 10 % | 1,50 %
+3.c | Conectores sobre cables | Montaje de conectores | Lista de cotejo | 15 % | 2,25 %
+3.d | Equipos de conmutación en armarios | Montaje/ubicación de switch | Práctica | 15 % | 2,25 %
+3.e | Conexión con paneles de parcheo | Patch panel → switch | Práctica | 15 % | 2,25 %
+3.f | Verificación de conectividad | LEDs, ping, comprobaciones | Prueba práctica | 20 % | 3 %
+3.g | Calidad del trabajo | Orden, procedimiento y acabado | Observación / rúbrica | 10 % | 1,50 %
+ |  |  | TOTAL | 100 % | 15 %
+[FIN TABLA]
+
+Evidencias principales
+Montaje físico + conectividad + diagnóstico sencillo + prueba individual.
+RA4 Instalación y configuración de equipos en red
+Peso global en el módulo: 25 % · SdA5 · Configuramos la red
+
+[TABLA]
+CE | Qué se evalúa | Evidencia principal | Instrumento | Peso en RA | Peso módulo
+4.a | Características de redes inalámbricas | Análisis WLAN | Actividad aplicada | 10 % | 2,50 %
+4.b | Modos de funcionamiento inalámbrico | Selección de modo según escenario | Caso práctico | 5 % | 1,25 %
+4.c | Adaptadores y puntos de acceso | Instalación/configuración | Práctica | 10 % | 2,50 %
+4.d | Modos y parámetros básicos | Configuración WLAN | Lista de cotejo | 10 % | 2,50 %
+4.e | Conectividad inalámbrica | Comprobación entre dispositivos | Prueba práctica | 10 % | 2,50 %
+4.f | Software correspondiente | Instalación/controladores | Evidencia práctica | 5 % | 1,25 %
+4.g | Protocolos | Identificación y aplicación | Packet Tracer / preguntas prácticas | 10 % | 2,50 %
+4.h | Parámetros básicos | IPv4/IPv6, máscara, gateway, adaptadores | Práctica individual | 15 % | 3,75 %
+4.i | Seguridad básica | Configuración segura de red/Wi-Fi | Rúbrica práctica | 10 % | 2,50 %
+4.j | VLAN | Creación y configuración de VLAN | Packet Tracer | 15 % | 3,75 %
+ |  |  | TOTAL | 100 % | 25 %
+[FIN TABLA]
+
+Evidencias principales
+Configuración IP + WLAN + seguridad + VLAN + proyecto TecnoCanarias + prueba práctica individual.
+DHCP puede trabajarse como ampliación o conexión con el módulo 0227 Servicios en Red. No se asigna peso propio a la instalación del servicio DHCP en RA4 de Redes Locales.
+RA5 Mantenimiento y resolución de incidencias
+Peso global en el módulo: 15 % · SdA6 · La red no funciona
+
+[TABLA]
+CE | Qué se evalúa | Evidencia principal | Instrumento | Peso en RA | Peso módulo
+5.a | Identificación de incidencias | Tickets de soporte | Lista de cotejo | 10 % | 1,50 %
+5.b | Hardware o software | Clasificación y diagnóstico | Caso práctico | 10 % | 1,50 %
+5.c | Señales visuales | NIC/switch/AP | Práctica | 10 % | 1,50 %
+5.d | Protocolos de comunicación | Comandos y comprobaciones | Práctica | 10 % | 1,50 %
+5.e | Localización de causa | Diagnóstico completo | Rúbrica práctica | 15 % | 2,25 %
+5.f | Sustitución de equipos/elementos | Reparación física | Práctica | 15 % | 2,25 %
+5.g | Solución de disfunciones software | Corrección/reconfiguración | Packet Tracer / sistema real | 15 % | 2,25 %
+5.h | Informe de incidencias | Parte técnico | Rúbrica documental | 15 % | 2,25 %
+ |  |  | TOTAL | 100 % | 15 %
+[FIN TABLA]
+
+Evidencias principales
+Tickets + diagnóstico físico/lógico + proyecto integrador + prueba práctica individual + informe técnico.
+RA6 PRL y protección ambiental
+Peso global en el módulo: 10 % · SdA4 · ¿Estamos preparados para trabajar como técnicos?
+
+[TABLA]
+CE | Qué se evalúa | Evidencia principal | Instrumento | Peso en RA | Peso módulo
+6.a | Riesgos y peligrosidad | Auditoría de riesgos | Rúbrica | 15 % | 1,50 %
+6.b | Operación segura de máquinas/herramientas | Prácticas SdA2-3 | Observación | 15 % | 1,50 %
+6.c | Causas frecuentes de accidentes | Análisis de escenarios | Caso práctico | 10 % | 1 %
+6.d | Elementos de seguridad y EPI | Selección justificada | Actividad aplicada | 10 % | 1 %
+6.e | Manipulación y protección personal | Demostración práctica | Lista de cotejo | 15 % | 1,50 %
+6.f | Fuentes de contaminación | Auditoría ambiental | Ficha | 10 % | 1 %
+6.g | Clasificación de residuos | RAEE y retirada selectiva | Actividad práctica | 10 % | 1 %
+6.h | Orden y limpieza | Observación acumulada | Registro docente | 15 % | 1,50 %
+ |  |  | TOTAL | 100 % | 10 %
+[FIN TABLA]
+
+Evidencias principales
+Observación acumulada desde septiembre + auditoría individual + demostración práctica.
+Resumen para Alexia
+Se propone organizar el registro visible por evidencias evaluables, manteniendo esta matriz como referencia de los 51 CE. Las entradas siguientes orientan la organización del cuaderno; su configuración debe conservar los pesos por CE y por RA.
+
+[TABLA]
+RA | Entradas principales en Alexia
+RA1 | Packet Tracer · Topologías/medios · Representación · Proyecto · Prueba individual
+RA2 | Materiales · Cable RJ45 · Tester · Plano · Montaje/etiquetado · Proyecto · Prueba
+RA3 | Montaje lógico · Adaptadores/conectores · Switch/panel · Conectividad · Diagnóstico · Prueba
+RA4 | WLAN · IP/parámetros · Seguridad · VLAN · Proyecto · Prueba
+RA5 | Diagnóstico físico · Diagnóstico lógico · Tickets · Informe · Proyecto · Prueba
+RA6 | Seguridad observada · Herramientas · Orden/ergonomía · RAEE · Auditoría · Demostración
+[FIN TABLA]
+
+Una misma evidencia para varios CE
+Una misma práctica puede aportar información sobre varios CE. Se valoran por separado los aspectos observables de cada criterio mediante la rúbrica o lista de cotejo, sin copiar automáticamente una única nota en todos ellos ni duplicar el peso de la actividad.
+Ejemplo: en una práctica de montaje y comprobación de cableado, las tomas de usuario y los paneles de parcheo aportan evidencia para 2.g; la comprobación de esas líneas, para 2.h; la calidad y seguridad, para 2.j; y la operación segura, la manipulación y el orden, para 6.b, 6.e y 6.h. La fabricación de un latiguillo, por sí sola, no acredita todo el alcance de 2.g y 2.h.
+Cada CE conserva el peso indicado en su RA. Si se recogen varias evidencias de un mismo CE, deben integrarse en una valoración del criterio conforme al procedimiento previsto en la programación. La demostración práctica individual permite comprobar la autoría, la autonomía y el dominio real, también cuando se utilizan herramientas de IA.

@@ -1,0 +1,255 @@
+Situación de Aprendizaje 1
+¿Cómo se comunican los equipos de una red?
+CFGM Sistemas Microinformáticos y Redes · 1.º SMRMódulo 0225 · Redes LocalesCurso 2026-2027
+1. Identificación
+
+[TABLA]
+Ciclo | CFGM Sistemas Microinformáticos y Redes
+Curso | 1.º SMR
+Módulo profesional | Redes Locales (0225)
+RA principal | RA1
+RA complementarios | RA4 y RA6
+Temporalización aproximada | Finales de septiembre a mediados/finales de noviembre
+Duración estimada | 7-8 semanas
+Carga semanal | 6 horas
+[FIN TABLA]
+
+2. Título de la situación de aprendizaje
+¿Cómo se comunican los equipos de una red?
+3. Reto o situación inicial
+Una pequeña empresa necesita conectar varios ordenadores para compartir información y trabajar en red. Antes de instalar nada, hay que comprender cómo se comunican los dispositivos, qué elementos necesita la red y cómo representarla correctamente.
+Reto: diseñar, representar y explicar una red local sencilla, utilizando Packet Tracer para comprobar su funcionamiento.
+4. Resultado de Aprendizaje principal
+RA1. Reconoce la estructura de redes locales cableadas analizando las características de entornos de aplicación y describiendo la funcionalidad de sus componentes.
+5. RA complementarios
+RA4 · Anticipación funcional
+TCP/IP.
+IPv4.
+Configuración básica de equipos.
+Parámetros de red.
+Comprobación de conectividad.
+No se pretende cerrar RA4 en esta SdA; se anticipan aprendizajes que ayudan a comprender mejor el funcionamiento de una red.
+RA6 · Trabajo transversal
+Orden del puesto.
+Ergonomía.
+Cuidado del equipo.
+Uso responsable del material.
+Cumplimiento de normas.
+Comportamiento profesional.
+RA6 tampoco se cierra en esta SdA; se empiezan a generar hábitos y evidencias de desempeño profesional.
+6. Criterios de evaluación del RA1
+
+[TABLA]
+CE | Descripción
+a) | Principios de funcionamiento de las redes locales.
+b) | Tipos de redes.
+c) | Elementos que componen una red local y su función.
+d) | Medios de transmisión.
+e) | Mapa físico de una red local.
+f) | Aplicaciones para representar el mapa físico.
+g) | Topologías de red.
+h) | Estructuras alternativas.
+[FIN TABLA]
+
+7. Objetivos de aprendizaje
+Explicar qué es una red local.
+Distinguir distintos tipos de redes.
+Identificar los componentes principales de una red.
+Explicar la función de switch, router, punto de acceso y tarjeta de red.
+Distinguir medios de transmisión.
+Reconocer topologías.
+Interpretar un esquema físico.
+Representar una red.
+Configurar una red sencilla en Packet Tracer.
+Asignar direcciones IP básicas.
+Comprobar la conectividad.
+Justificar decisiones técnicas sencillas.
+8. Producto final
+Diseño de la red de una pequeña empresa.
+Plano o esquema de la red.
+Listado de dispositivos necesarios.
+Justificación de la topología utilizada.
+Justificación del medio de transmisión.
+Archivo de Packet Tracer.
+Tabla de direccionamiento IP.
+Comprobación de conectividad.
+Breve memoria técnica.
+La memoria técnica será breve: se prioriza que el alumno pueda explicar y defender su red frente a producir un documento extenso.
+9. Desarrollo según el PPI
+CONTEXTO
+Se parte de situaciones cercanas al alumnado: red del aula, red doméstica, Wi-Fi del centro, dispositivos conectados, Internet, impresoras, ordenadores y móviles. Pregunta inicial: “¿Qué ocurre realmente cuando dos ordenadores se comunican?” Se detectan conocimientos previos e ideas erróneas.
+EXPERIENCIA
+El alumnado trabaja de manera progresiva con redes reales y simuladas mediante explicaciones breves, demostraciones, Packet Tracer, esquemas, pequeños retos, trabajo práctico, análisis de errores y comparación de configuraciones.
+REFLEXIÓN
+Tras las prácticas se plantean preguntas como: ¿por qué funciona esta red?, ¿por qué esta otra no?, ¿qué dispositivo falta?, ¿qué error he cometido?, ¿cómo he descubierto el problema? Pregunta ignaciana: “¿Cómo me ayuda este aprendizaje a ser más para los demás?”
+ACCIÓN
+El alumnado diseña una red nueva aplicando lo aprendido. No reproduce exactamente el ejemplo del profesor: debe tomar decisiones.
+EVALUACIÓN
+Se evalúa mediante evidencias prácticas, diferenciando entre actividades para aprender y actividades para demostrar competencia.
+10. Secuencia de actividades
+Actividad 1 · ¿Qué es una red?
+Duración: 1-2 sesiones
+Situación inicial con varios ordenadores, una impresora y conexión a Internet. El alumnado identifica elementos, posibles conexiones y problemas que resolvería una red.
+Evidencia: Actividad diagnóstica.
+Tratamiento: Sin calificación o peso mínimo.
+CE relacionados: RA1-a, RA1-b, RA1-c
+Actividad 2 · Mi primera red en Packet Tracer
+Duración: 2-3 sesiones
+Crear PC0 – Switch – PC1. Configurar IP y máscara, realizar conexiones físicas y comprobar con ping.
+Evidencia: Archivo .pkt.
+Tratamiento: Práctica evaluable.
+CE relacionados: RA1-a, RA1-c; anticipación RA4
+Actividad 3 · ¿Por qué no funciona?
+Duración: 2 sesiones
+Resolver redes con errores: IP, máscara, cableado o dispositivo mal conectado. Localizar, corregir, comprobar y explicar.
+Evidencia: Ficha de diagnóstico + archivo .pkt.
+Tratamiento: Práctica evaluable.
+CE relacionados: RA1-a, RA1-c; anticipación RA5
+Actividad 4 · Conoce los dispositivos
+Duración: 1-2 sesiones
+Trabajar con NIC, hub, switch, router, punto de acceso y repetidor desde su función y uso real.
+Evidencia: Tabla dispositivo–función–ejemplo de uso.
+Tratamiento: Evidencia de aprendizaje.
+CE relacionados: RA1-c
+Actividad 5 · TCP/IP y OSI
+Duración: 2 sesiones
+Comprender qué ocurre desde que un equipo envía información hasta que otro la recibe. Usar Simulation Mode en Packet Tracer.
+Evidencia: Explicación breve del recorrido de la información.
+Tratamiento: Evidencia evaluable.
+CE relacionados: RA1-a; anticipación RA4
+Actividad 6 · Tipos de redes
+Duración: 1-2 sesiones
+Analizar casa, aula, colegio, empresa, dos edificios y oficinas en distintas ciudades.
+Evidencia: Tabla comparativa.
+Tratamiento: Evidencia evaluable.
+CE relacionados: RA1-b
+Actividad 7 · Medios de transmisión
+Duración: 1-2 sesiones
+Comparar cobre, fibra e inalámbrico y justificar qué medio usar en cada situación.
+Evidencia: Ficha de elección razonada.
+Tratamiento: Evidencia evaluable.
+CE relacionados: RA1-d
+Actividad 8 · Topologías
+Duración: 1-2 sesiones
+Reconocer estrella, bus, anillo, malla y combinaciones. Justificar ventajas e inconvenientes.
+Evidencia: Actividad de identificación y justificación.
+Tratamiento: Evidencia evaluable.
+CE relacionados: RA1-g, RA1-h
+Actividad 9 · Representamos una red
+Duración: 2 sesiones
+Interpretar mapas físicos y diseñar uno con Excalidraw, Draw.io, Canva, PowerPoint, Packet Tracer u otra herramienta.
+Evidencia: Mapa físico digital.
+Tratamiento: Evidencia evaluable.
+CE relacionados: RA1-e, RA1-f
+Actividad 10 · Proyecto final
+Duración: 3-4 sesiones
+Diseñar la red de una pequeña empresa con recepción, administración, dirección, sala de reuniones, equipos fijos, portátiles, impresora y acceso inalámbrico.
+Evidencia: Plano, topología, dispositivos, medio, direcciones, archivo .pkt y pruebas.
+Tratamiento: Producto final.
+CE relacionados: RA1-a a RA1-h
+Actividad 11 · Demostración individual
+Duración: 1 sesión
+Resolver en clase una red distinta al proyecto y responder 2-3 preguntas de comprobación.
+Evidencia: Prueba práctica individual.
+Tratamiento: Evidencia clave.
+CE relacionados: RA1-a a RA1-h
+11. Evidencias evaluables
+
+[TABLA]
+Evidencia | CE relacionados
+Prácticas Packet Tracer | a, c
+Diagnóstico de redes | a, c
+Tipos, medios y topologías | b, d, g, h
+Representación de la red | e, f
+Proyecto final | a-h
+Prueba práctica individual | a-h
+[FIN TABLA]
+
+12. Propuesta de pesos dentro del RA1
+
+[TABLA]
+Evidencia | Peso
+Prácticas Packet Tracer | 15 %
+Diagnóstico y resolución de errores | 15 %
+Tipos, medios y topologías | 10 %
+Representación física | 10 %
+Proyecto final | 25 %
+Prueba práctica individual | 25 %
+TOTAL | 100 %
+[FIN TABLA]
+
+13. Integración de RA6
+RA6 comienza desde esta SdA, aunque todavía no se cierra. Se observarán de forma sistemática:
+Orden.
+Cuidado del equipo.
+Postura y ergonomía.
+Respeto de normas.
+Uso adecuado de materiales.
+Conducta profesional.
+Instrumento: lista de observación. Estas evidencias se acumularán para la SdA específica de RA6.
+14. Uso de IA
+La IA sí puede utilizarse para
+Pedir explicaciones.
+Consultar conceptos.
+Crear preguntas de repaso.
+Detectar errores.
+Comparar soluciones.
+Entender por qué algo falla.
+La IA no sustituye
+La práctica.
+El archivo Packet Tracer.
+El montaje.
+La explicación individual.
+La resolución de un reto en clase.
+Regla para el alumnado: “Puedes usar IA para aprender, pero tienes que demostrar que tú sabes hacerlo.”
+15. DUA
+Múltiples formas de representación
+Explicación oral.
+Esquemas y diagramas.
+Vídeos.
+Packet Tracer.
+Demostraciones.
+Múltiples formas de acción y expresión
+Esquema.
+Simulación.
+Explicación.
+Práctica.
+Representación visual.
+Múltiples formas de implicación
+Retos progresivos.
+Escenarios reales.
+Elección de soluciones.
+Trabajo cooperativo.
+Dificultad graduada.
+16. Estructura propuesta en Moodle
+Nivel 1. Descubre la red
+Nivel 2. Conecta dos equipos
+Nivel 3. Encuentra el error
+Nivel 4. Conoce los dispositivos
+Nivel 5. Sigue el paquete
+Nivel 6. Elige la red adecuada
+Nivel 7. Dibuja la red
+Misión final. Diseña la red de una empresa.
+Reto individual. Demuestra que sabes hacerlo sin ayuda.
+17. Registro en Alexia
+Se propone limitar el número de entradas calificables para mantener un cuaderno manejable:
+Packet Tracer.
+Diagnóstico.
+Tipos/medios/topologías.
+Representación.
+Proyecto.
+Prueba práctica individual.
+Cada entrada se vinculará a los criterios de evaluación correspondientes.
+18. Temporalización orientativa
+
+[TABLA]
+Semana | Contenido principal
+1 | Introducción + primera red
+2 | IPv4 y máscara
+3 | Dispositivos + gateway
+4 | Evaluación inicial + redes básicas
+5 | TCP/IP / OSI
+6 | Tipos, medios y topologías
+7 | Representación
+8 | Proyecto + prueba individual
+[FIN TABLA]
